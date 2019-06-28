@@ -1,4 +1,4 @@
-def turn_count(board,index)
+def turn_count(board)
   count = 0 
   element_counter = 0
   
