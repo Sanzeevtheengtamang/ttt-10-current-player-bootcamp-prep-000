@@ -5,5 +5,6 @@ def turn_count(board,index)
   board.each do |element|
     if element == " "
       element_counter +=1
+    end
   
 end
