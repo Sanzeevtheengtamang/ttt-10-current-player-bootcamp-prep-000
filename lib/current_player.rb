@@ -11,6 +11,4 @@ def turn_count(board,index)
   if element_counter%2 == 0 
     count +=1 
   end
-    
-  
 end
